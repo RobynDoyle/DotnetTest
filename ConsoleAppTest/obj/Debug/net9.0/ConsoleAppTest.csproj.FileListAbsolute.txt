@@ -12,3 +12,4 @@
 /Users/robyn/Desktop/ROYLE/ROYLE CODE/Dotnet/Projects/Test/ConsoleAppTest/obj/Debug/net9.0/ConsoleAppTest.pdb
 /Users/robyn/Desktop/ROYLE/ROYLE CODE/Dotnet/Projects/Test/ConsoleAppTest/obj/Debug/net9.0/ConsoleAppTest.genruntimeconfig.cache
 /Users/robyn/Desktop/ROYLE/ROYLE CODE/Dotnet/Projects/Test/ConsoleAppTest/obj/Debug/net9.0/ref/ConsoleAppTest.dll
+/Users/robyn/Desktop/ROYLE/ROYLE CODE/Dotnet/Projects/Test/ConsoleAppTest/obj/Debug/net9.0/ConsoleAppTest.sourcelink.json
